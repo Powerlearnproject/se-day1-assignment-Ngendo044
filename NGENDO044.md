@@ -18,7 +18,7 @@ In this stage, development of applications for smartphones amd tablets arose mak
 
 List and briefly explain the phases of the Software Development Life Cycle.
 phase 1. Planning - This is the initial phase where the project's goals, scope, timeline, resources and potential risks are defined.
-phase 2. Feasibility study - I thia phase, the project's feasibility is assessed in terms of technical, operational and financial aspects.
+phase 2. Feasibility study - I this phase, the project's feasibility is assessed in terms of technical, operational and financial aspects.
 phase 3. System design - Bases on the requirements and feasibility analysis, database and user interfacea etc. The system's technical blue print is created here.
 phase 4. Implementation - Also knon as coding phase. This is where the actual development of the software begins. Developers write code based on the design requirement.
 Phase 5. Testing - After coding, the software undergoes rigorous testing to identify and fix any bugs. Includes unit testing and UAT.
